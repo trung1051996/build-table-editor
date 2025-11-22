@@ -30,14 +30,14 @@ A high-performance React-based table editor built with Next.js and TypeScript th
 
 ### Prerequisites
 
-- Node.js 18+ and npm/yarn
+- Node.js 20+ and npm/yarn
 - Git
 
 ### Installation
 
 1. **Clone or extract the project**
    \`\`\`bash
-   cd table-editor
+   cd build-table-editor
    \`\`\`
 
 2. **Install dependencies**
